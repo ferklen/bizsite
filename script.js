@@ -20,7 +20,7 @@
   contentContainer.appendChild(titleElement);
   contentContainer.appendChild(contentElement);
   //
-  const images = ['https://cdn.discordapp.com/attachments/1153860263410401280/1155223952998793307/image.png', 'https://cdn.discordapp.com/attachments/1153860263410401280/1155241985892945950/IMG_7547.jpg', 'https://cdn.discordapp.com/attachments/1153860263410401280/1155264018987090171/image.png'];
+  const images = ['https://cdn.discordapp.com/attachments/1153860263410401280/1155223952998793307/image.png?ex=65f5f2a5&is=65e37da5&hm=57bd0f71a0b85c6ebe4839694db8f3595b4007dc2851103bbda821d24ce6c107&', 'https://cdn.discordapp.com/attachments/1153860263410401280/1155241985892945950/IMG_7547.jpg?ex=65f60370&is=65e38e70&hm=ff5e2d3b1d09c89a895f7583f385698d7420b14ba1fd28217d1b11d9ec39c113&', 'https://cdn.discordapp.com/attachments/1153860263410401280/1155264018987090171/image.png?ex=65f617f5&is=65e3a2f5&hm=f6a53fd5ff8d6b7678a4de3923223a6bf60ce5f0e8eab51fa4b4ada697b5bf9b&'];
   const texts = ['Crea bienvenidas personalizadas! ⭐\nPuedes poner el titulo, texto y footer\nque quieras incluyendo una imagen opcional\n\nTambien puedes establecer un rol para darle\na los miembros al unirse al servidor', 'Comandos de tiempo! ⏰\nVe la diferencia entre dos mensajes,\nLa hora en cualquier país, e incluso\ncualquier timestamp en formato de Discord', 'Sorteos funcionales 🎉\nPuedes poner el tiempo que quieras\ny tambien hay comando reroll'];
 
 
